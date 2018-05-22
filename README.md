@@ -1,1 +1,1 @@
-"bator egy szemet" 
+bob 
